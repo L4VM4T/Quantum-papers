@@ -1,4 +1,4 @@
-# Quantum-papers
+# Quantum papers
 This repository contains papers and publications I have read through my journey through quantum computing.
 
 **Performance Comparison of Typical Binary-Integer Encodings in an Ising Machine** - Kensuke Tamura, Tatsuhiko Shirai, Hosho Katsura, Shu Tanaka, Nozomu Togawa. 
