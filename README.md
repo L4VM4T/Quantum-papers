@@ -45,7 +45,7 @@ https://www.tcm.phy.cam.ac.uk/~mjh261/pdfs/masters.pdf
 https://arxiv.org/abs/1904.06560
 
 + **Charge insensitive qubit design derived from the Cooper pair box** - _Jens Koch, Terri M. Yu,  Jay Gambetta, A. A. Houck, D. I. Schuster, J. Majer, Alexandre Blais, M. H. Devoret, S. M. Girvin, R. J. Schoelkopf_
-https://arxiv.org/abs/cond-mat/0703002
+https://arxiv.org/abs/cond-mat/0703002 (Paper concerning the beating behavior in the ramsey experiment)
 
 + **Circuit Quantum Electrodynamics** - _Alexandre Blais, Arne L. Grimsmo, S. M. Girvin, Andreas Wallraf_
 https://arxiv.org/abs/2005.12667
