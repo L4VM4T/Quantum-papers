@@ -38,7 +38,7 @@ https://www.pnas.org/doi/full/10.1073/pnas.2015192117
 
 ### Related calibration and characterization of quantum chips:
 
-+ **A practical guide for building superconducting quantum device** - __Yvonne Y. Gao, M. Adriaan Rol,  Steven Touzard, Chen Wang_
++ **A practical guide for building superconducting quantum device** - _Yvonne Y. Gao, M. Adriaan Rol,  Steven Touzard, Chen Wang_
 https://www.tcm.phy.cam.ac.uk/~mjh261/pdfs/masters.pdf
 
 + **A Quantum Engineer’s Guide to Superconducting Qubits** - _P. Krantz, M. Kjaergaard, F. Yan, T.P. Orlando, S. Gustavsson, W. D. Oliver_
@@ -75,3 +75,5 @@ arXiv:2112.03708v1
 
 + **Theory of quantum system certification – a tutorial** - _Martin Kliesch, Ingo Roth_
 arXiv:2010.05925v3
+
+
