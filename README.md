@@ -53,6 +53,25 @@ https://arxiv.org/abs/2005.12667
 + **Introduction to Experimental Quantum Measurement with Superconducting Qubits** - _Mahdi Naghiloo_
 https://arxiv.org/abs/1904.09291
 
++ **Superconducting quantum bits** - _John Clarke, Frank K. Wilhelm_
+doi:10.1038/nature07128
 
++ **Microwave photonics with superconducting quantum circuits** - _Xiu Gu, Anton Frisk Kockum, Adam Miranowicz, Yu-xi Liu, Franco Nori_
+https://doi.org/10.1016/j.physrep.2017.10.002 0370-1573/
 
++ **Superconducting Qubits and Circuits: Artificial Atoms Coupled to Microwave Photons** - _Steven M. Girvin_
 
++ **Quantum control of a cat-qubit with bit-flip times exceeding ten seconds** - _U. Reglade, A. Bocquet, R. Gautier, J. Cohen, A. Marquet, E. Albertinale, N. Pankratova, M. Hallen, F. Rautschke, L.-A. Sellem, P. Rouchon, A. Sarlette, M. Mirrahimi, P. Campagne-Ibarcq, R. Lescanne, S. Jezouin, Z. Leghtas_
+arXiv:2307.06617v2
+
++ **Intermodulation spectroscopy and the nonlinear response of two-level systems in superconducting coplanar-waveguide resonator** - _Janka Biznárová, J.C. Rivera Hernández, Daniel Forchheimer, Jonas Bylander, David B. Haviland, Gustav Andersson_
+10.1103/PhysRevApplied.22.01406
+
++ **Quasiparticle poisoning in superconducting quantum computers** - _José Aumentado, Gianluigi Catelani, Kyle Serniak_
+https://doi.org/10.1063/PT.3.5291
+
++ **Realizing Repeated Quantum Error Correction in a Distance-Three Surface Code** - _Sebastian Krinner, Nathan Lacroix, Ants Remm, Agustin Di Paolo, Elie Genois, Catherine Leroux, Christoph Hellings, Stefania Lazar, Francois Swiadek, Johannes Herrmann, Graham J. Norris, Christian Kraglund Andersen, Markus Muller, Alexandre Blais, Christopher Eichler, Andreas Wallraf_
+arXiv:2112.03708v1
+
++ **Theory of quantum system certification – a tutorial** - _Martin Kliesch, Ingo Roth_
+arXiv:2010.05925v3
